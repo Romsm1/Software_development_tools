@@ -1,10 +1,10 @@
-﻿1. Glass is transparent because it does not absorb visible light.
-2. Honey never spoils; it can last for thousands of years.
+﻿1. Glass is transparent.
+2. Honey never spoils.
 3. Octopuses have three hearts.
-4. A day on Venus is longer than a year on Venus.
-5. Bananas are berries, but strawberries are not.
-6. The Eiffel Tower can grow taller in the summer due to thermal expansion.
-7. Water is the only natural substance found in all three physical states on Earth.
-8. The human brain uses about 20% of the body's total energy.
-9. Lightning strikes the Earth about 100 times per second.
-10. The first computer mouse was made of wood.
+4. A day on Venus is longer than a year.
+5. Bananas are berries.
+6. The Eiffel Tower grows in summer.
+7. Water has three states.
+8. The brain uses 20% of energy.
+9. Lightning strikes 100 times per second.
+10. The first mouse was made of wood.
